@@ -8,7 +8,8 @@ NewtonSchool JS Projects - You can Create, Edit and Delete description of the ta
 3.Drag and drop function used for data transfer.
 liner gradient css for making beautiful color effect.
 ##### TECH STACK:
-![html-5](https://user-images.githubusercontent.com/111855561/211017593-a1d325bd-1325-41a8-a32d-491f593cab7c.png)
+![html-language](https://user-images.githubusercontent.com/111855561/211018394-70ccd112-4197-45e1-8466-2814be3dbde6.png)
+
 ![css](https://user-images.githubusercontent.com/111855561/211018051-a1f4043a-0a51-41a2-bda9-a6b847f8a6d7.png)
 ![javascript-with-coffee-logo-10](https://user-images.githubusercontent.com/111855561/211018100-cc86e183-67b1-4608-814c-ad05b8aba2ff.png)
 
